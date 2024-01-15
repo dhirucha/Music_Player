@@ -16,7 +16,7 @@
 }
 
 .musicPlayer{
-    background-color: #ffe0e5;
+    background-color: #c0ede2e9;
     width: 400px;
     padding: 20px 35px;
     text-align: center;
@@ -34,16 +34,16 @@ nav .circle{
     background-color: #fff;
     height: 40px;
     width: 40px;
-    box-shadow: 0 5px 10px rgba(255, 26, 26, 0.22);
+    box-shadow: 0 5px 10px rgba(103, 165, 235, 0.277);
     line-height: 40px;
-    color: #f53192;
+    color: #125E8A;
 }
 
 #song-img{
     width: 150px;
     border-radius: 50%;
     border: 8px solid #fff;
-    box-shadow: 0 10px 60px rgba(255, 26, 26, 0.22);
+    box-shadow: 0 10px 60px rgba(103, 165, 235, 0.277);
 
 }
 
@@ -64,7 +64,7 @@ nav .circle{
     width: 100%;
     height: 6px;
     border-radius: 4px;
-    background: #f53192f5;
+    background: #125E8A;
     cursor: pointer;
     margin: 40px 0;
 
@@ -72,10 +72,10 @@ nav .circle{
 
 #progress::-webkit-slider-thumb{
     -webkit-appearance: none;
-    background: #f53192;
+    background: #125E8A;
     height: 30px;
     width: 30px;
-    box-shadow: 0 5px 5px rgba(255, 26, 26, 0.22);
+    box-shadow: 0 5px 5px rgba(103, 165, 235, 0.277);
     border-radius: 50%;
     border: 8px solid #fff;
 }
@@ -96,13 +96,13 @@ nav .circle{
     justify-content: center;
     border-radius: 50%;
     cursor: pointer;
-    box-shadow: 0 10px 20px rgba(255, 26, 26, 0.22);
-    color: #f53192;
+    box-shadow: 0 10px 20px rgba(103, 165, 235, 0.277);
+    color: #125E8A;
 }
 
 
 .controls div:nth-child(2){
     transform: scale(1.2);
     color: #fff;
-    background-color: #f53192;
+    background-color: #125E8A;
 }
